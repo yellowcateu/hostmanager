@@ -1,6 +1,6 @@
 ---------------------------
 -- YellowCat HostManager --
--- @utor Tomasz Kowalski --
+-- autor Tomasz Kowalski --
 ---------------------------
 
 Applikacja do zarządzania i ewidencjonowania sprzętu komputerowego.
