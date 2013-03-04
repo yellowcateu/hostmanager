@@ -1,5 +1,5 @@
 {
-    "hash": "67b8bf58c5bb3a232568d762ca4b42e6",
+    "hash": "38917ad6a9e7fbf6584d75dbfadc54bc",
     "packages": [
         {
             "name": "doctrine/annotations",
@@ -177,7 +177,7 @@
                 {
                     "name": "Johannes Schmitt",
                     "email": "schmittjoh@gmail.com",
-                    "homepage": "https://github.com/schmittjoh",
+                    "homepage": "http://jmsyst.com",
                     "role": "Developer of wrapped JMSSerializerBundle"
                 }
             ],
